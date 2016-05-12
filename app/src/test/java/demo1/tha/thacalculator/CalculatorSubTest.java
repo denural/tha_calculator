@@ -36,8 +36,6 @@ public class CalculatorSubTest {
             {1, 1, 0.0},
             {2, 1, 1.0},
             {8, 2, 6.0},
-            {9, 6, 3.0},
-            
         });
     }
 }
